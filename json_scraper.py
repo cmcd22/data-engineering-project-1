@@ -1,6 +1,8 @@
 import json
 import requests
 
+# Scrapes json data from web API
+
 
 def json_scraper(url, file_name, bucket):
     print('Commence Running')
